@@ -55,6 +55,7 @@ pub mod hostname;
 pub mod java;
 pub mod jobs;
 pub mod julia;
+pub mod kit;
 pub mod kotlin;
 pub mod kubernetes;
 pub mod line_break;
